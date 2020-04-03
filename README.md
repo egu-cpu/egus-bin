@@ -1,0 +1,2 @@
+# egus-bin
+my trash 
